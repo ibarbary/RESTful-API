@@ -1,2 +1,3 @@
 # RESTful-API
-A REST API for handling users data
+- Created a REST API using Node and Express for handling users data
+- Implemented different CRUD operations
